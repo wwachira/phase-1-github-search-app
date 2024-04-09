@@ -1,6 +1,8 @@
  //had to create a db.json on my terminal lets see..
 //something is not working here,sorted..
 //fetch and display the user's repositories
+//from thunder client I copy this list @client status 200 live to db.json
+//Liz gets the response on git api(https://api.github.com)
 
 //on my web page i Liz was able to search my name and got other 2users
 
